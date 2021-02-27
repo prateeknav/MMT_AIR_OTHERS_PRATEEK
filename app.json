@@ -1,0 +1,33 @@
+{
+  "id": "2d2f33de-e528-4883-b476-67ca9a55b8df",
+  "name": "AirSales_Others_Prateek",
+  "publisher": "ALLE",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2d2f33de-e528-4882-b476-67ca9a55b8df",
+      "name": "AirSales_Tables",
+      "publisher": "MMT",
+      "version": "1.0.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Project1.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
